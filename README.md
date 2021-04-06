@@ -1,2 +1,3 @@
-# alura_responsivo
- Layout Responsivo do Apeperia by Alura
+# Layout Responsivo
+
+- Layout Responsivo do Apeperia by Alura
